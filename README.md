@@ -2,8 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
-
 # 💫 Hi 👋, I'm Pranay Jain
 **A passionate Full-Stack Developer || Software Engineer**
 
@@ -15,15 +13,12 @@ Email Me 👉 ✉️ **pranayjain1503@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** You can find my socials in this repo
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
 ###
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranayjainnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayjain1503) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayjain1503@gmail.com) 
 <div align="left">
   <a href="https://www.linkedin.com/in/pranayjain1503/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
